@@ -4,7 +4,7 @@
 -->
 - 🌱 I’m currently learning Rust.
 - 🔭 I’m currently working on bitcoin, crypto, and ai projects.
-- 👯 I’m looking to collaborate on bitcoin, tbd/web5, and ords/runes.
+- 👯 I’m looking to collaborate on ai, bitcoin, tbd/web5, and ords/runes.
 
 <!--
 - 🤔 I’m looking for help with...
