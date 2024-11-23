@@ -1,3 +1,3 @@
 <!-- ### Hi there 👋 -->
 
-currently: [BitcoinLayers](https://bitcoinlayers.org), [Mainline](https://getmainline.io), [Carry](https://carry.com)
+currently: [bitcoinlayers](https://bitcoinlayers.org), [mainline](https://getmainline.io), [carry](https://carry.com)
